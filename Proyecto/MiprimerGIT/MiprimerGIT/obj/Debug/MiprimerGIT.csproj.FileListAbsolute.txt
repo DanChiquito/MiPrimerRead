@@ -1,0 +1,7 @@
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\bin\Debug\MiprimerGIT.exe.config
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\bin\Debug\MiprimerGIT.exe
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\bin\Debug\MiprimerGIT.pdb
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\obj\Debug\MiprimerGIT.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\obj\Debug\MiprimerGIT.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\obj\Debug\MiprimerGIT.exe
+C:\Users\chico\OneDrive\Desktop\MiPrimerRead\Proyecto\MiprimerGIT\MiprimerGIT\obj\Debug\MiprimerGIT.pdb
