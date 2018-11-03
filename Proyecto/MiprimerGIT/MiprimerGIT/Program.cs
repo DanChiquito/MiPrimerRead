@@ -11,6 +11,8 @@ namespace MiprimerGIT
         static void Main()
         {
             Console.WriteLine("HOLA SOY NUEVO EN GIT");
+            Console.WriteLine("escribe algo por favor para git");
+            string aux = Console.ReadLine();
         }
     }
 }
