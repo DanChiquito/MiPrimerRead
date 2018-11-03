@@ -8,6 +8,7 @@ namespace MiprimerGIT
 {
     class Program
     {
+        ClasePokemon mipokemon = new ClasePokemon("","","","");
         static void Main()
         {
             Console.WriteLine("HOLA SOY NUEVO EN GIT");
